@@ -49,7 +49,7 @@
 #### 📈 AdventureWorks Procurement Operations Dashboard
 *   **Description:** Created an Operations Dashboard in Power BI for AdventureWorks Cycles, focusing on procurement data. The dashboard offers leadership a visual overview of purchasing activities, supporting optimization of costs, order efficiency, delivery details, and vendor management.
 *   **Tech Stack:** `Power BI`, `DAX`, `Excel (for Design Thinking)`
-*   **🔗 [GitHub Repository](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI)**
+*   **🔗 [GitHub Repository](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI-)**
 
 #### 🐍 Python Data Analysis Project D - [Exploratory Data Analysis with Python (Tentative Title)]
 *   **Description:** (Coming Soon!) An upcoming project involving data cleaning, processing, exploratory data analysis (EDA), and visualization using Python libraries like Pandas, NumPy, and Matplotlib/Seaborn.
