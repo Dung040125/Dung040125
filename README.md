@@ -21,7 +21,6 @@ Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Qu
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
@@ -58,17 +57,6 @@ Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Qu
 *   **Mô tả:** (Sắp có!) Một dự án sắp tới bao gồm làm sạch dữ liệu, xử lý, phân tích dữ liệu khám phá (EDA) và trực quan hóa bằng các thư viện Python như Pandas, NumPy và Matplotlib/Seaborn.
 *   **Công nghệ sử dụng:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 *   **🔗 [Kho lưu trữ GitHub (Sắp có)]()**
-
----
-
-### 📊 Thống Kê GitHub Của Mình
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dung040125&show_icons=true&theme=buefy&count_private=true&hide_border=true&rank_icon=github" alt="Thống kê GitHub của Dung" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dung040125&layout=compact&theme=buefy&hide_border=true" alt="Các ngôn ngữ hàng đầu" />
-  <!-- Theme gợi ý cho bản tiếng Việt: 'buefy', 'solarized-light', 'default', 'nord'. Bạn có thể thử các theme khác từ https://github.com/anuraghazra/github-readme-stats#themes -->
-</p>
 
 ---
 
