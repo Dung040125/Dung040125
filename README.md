@@ -19,19 +19,18 @@ Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Qu
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/> </a>
   <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
-  <!-- Thêm icon Seaborn nếu bạn tìm được icon phù hợp, hoặc để dạng text -->
 </p>
 
-*   **Ngôn ngữ & Cơ sở dữ liệu:** Python, SQL (BigQuery, PostgreSQL)
+*   **Ngôn ngữ & Cơ sở dữ liệu:** Python, SQL (PostgreSQL, BigQuery)
 *   **Phân tích & Trực quan hóa Dữ liệu:** Power BI, Pandas, NumPy, Matplotlib
-*   **Kiến thức Kinh doanh:** Quản trị Kinh doanh, quản trị Công nghệ, nhìn ra insights dựa trên dữ liệu
-*   **Kỹ năng mềm:** Tư duy Phân tích, ham học hỏi, hợp tác làm việc nhóm
+*   **Kiến thức Kinh doanh:** Kiến thức về Quản trị Kinh doanh & Công nghệ, Khai phá insight từ dữ liệu 
+*   **Kỹ năng mềm:** Tư duy Phân tích, Ham học hỏi, Kỹ năng làm việc nhóm
 
 ---
 
