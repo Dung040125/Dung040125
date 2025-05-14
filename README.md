@@ -1,6 +1,7 @@
 # Chào bạn, mình là Dung! 👋
 
-Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội (HSB - VNU)**, chuyên ngành **Quản trị Doanh nghiệp và Công nghệ**. Mình có niềm đam mê với việc ứng dụng dữ liệu để khám phá những hiểu biết sâu sắc (insights) và hỗ trợ việc ra quyết định một cách hiệu quả. Mình đang trên hành trình thú vị để trở thành một **Nhà phân tích Dữ liệu (Data Analyst)**!
+*   Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội (HSB - VNU)**, chuyên ngành **Quản trị Doanh nghiệp và Công nghệ**. 
+*   Mình có niềm đam mê với việc ứng dụng dữ liệu để khám phá những hiểu biết sâu sắc (insights) và hỗ trợ việc ra quyết định một cách hiệu quả. Mình đang trên hành trình thú vị để trở thành một **Nhà phân tích Dữ liệu (Data Analyst)**!
 
 ---
 
