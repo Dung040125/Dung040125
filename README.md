@@ -1,92 +1,79 @@
-# Hi there, I'm Dung! 👋
+# Chào bạn, mình là Dung! 👋
 
-<p align="center">
-  <!-- 🖼️ YOUR BANNER HERE 🖼️ -->
-  <!-- Example: <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Thuy Dung Nguyen - Aspiring Data Analyst"> -->
-  <!-- Suggested dimensions: 1200x300px or 1280x320px. Design with Canva for best results! -->
-  <!-- Ideas: Pastel blue/white, nature elements, subtle data icons, your name + "Aspiring Data Analyst". -->
-</p>
-
-I'm **Nguyễn Thị Thùy Dung**, a third-year student at **HSB - VNU (Hanoi School of Business and Management - Vietnam National University, Hanoi)**, majoring in **Business Administration and Technology**. I'm deeply passionate about leveraging data to uncover insights and drive informed decisions. I'm on an exciting journey to become a **Data Analyst**!
+Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội (HSB - VNU)**, chuyên ngành **Quản trị Doanh nghiệp và Công nghệ**. Mình có niềm đam mê với việc ứng dụng dữ liệu để khám phá những hiểu biết sâu sắc (insights) và hỗ trợ việc ra quyết định một cách hiệu quả. Mình đang trên hành trình thú vị để trở thành một **Nhà phân tích Dữ liệu (Data Analyst)**!
 
 ---
 
-### 💡 About Me
+### 💡 Về Mình
 
-*   🔭 I’m currently focusing on **building a strong foundation in data analysis** by working on practical projects and deepening my theoretical knowledge through my university studies and a specialized Data Analyst course.
-*   🌱 I’m currently learning **advanced SQL techniques, Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn), and mastering Power BI for impactful data visualization.**
-*   👯 I’m looking to collaborate on **entry-level data analysis projects, case studies, or open-source initiatives** where I can contribute, learn from others, and apply my growing skill set.
-*   🤔 I’m actively seeking **internship opportunities or real-world projects** to gain practical experience and mentorship in the field of data analytics.
-*   💬 Ask me about **SQL for data querying, creating interactive dashboards in Power BI, my learning journey into data, or insights from the intersection of business and technology!**
-*   😄 Pronouns: **She/Her**
-*   ⚡ Fun fact: **I love discovering patterns, whether in datasets or in everyday life! When I'm not diving into data, you can often find me listening to podcasts or reading books on behavioral psychology.**
+*   🔭 Hiện tại mình đang tập trung vào **xây dựng nền tảng vững chắc về phân tích dữ liệu** thông qua các dự án thực tế và đào sâu kiến thức lý thuyết tại trường cũng như một khóa học chuyên sâu về Phân tích Dữ liệu.
+*   🌱 Mình đang học **các kỹ thuật SQL, Python cho Phân tích Dữ liệu (Pandas, NumPy, Matplotlib), và hoàn thiện kỹ năng sử dụng Power BI để trực quan hóa dữ liệu một cách ấn tượng.**
+*   👯 Mình tìm kiếm cơ hội hợp tác trong **các dự án phân tích dữ liệu ở mức độ sơ cấp, các nghiên cứu tình huống (case studies), hoặc các sáng kiến mã nguồn mở** nơi mình có thể đóng góp, học hỏi từ người khác và áp dụng bộ kỹ năng đang phát triển của mình.
+*   🤔 Mình đang tích cực tìm kiếm **cơ hội thực tập hoặc các dự án thực tế** để tích lũy kinh nghiệm và nhận được sự hướng dẫn trong lĩnh vực phân tích dữ liệu.
+*   💬 Hãy hỏi mình về **SQL để truy vấn dữ liệu, cách tạo dashboard tương tác trong Power BI hoặc hành trình học tập về dữ liệu của mình!**
+*   ⚡ Sự thật thú vị: **Mình thích khám phá các quy luật, dù là trong các tập dữ liệu hay trong cuộc sống hàng ngày! Khi không tìm hiểu về dữ liệu, bạn thường có thể thấy mình đang nghe podcast hoặc đọc sách về tâm lý học hành vi.**
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### 🛠️ Bộ Công Cụ & Kỹ Năng Của Mình
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI-Desktop.png" alt="Power BI" width="45" height="45"/> </a>
+  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
-  <!-- Add Seaborn icon if you find a good one, or keep it text-based -->
+  <!-- Thêm icon Seaborn nếu bạn tìm được icon phù hợp, hoặc để dạng text -->
 </p>
 
-*   **Languages & Databases:** Python, SQL (BigQuery, MySQL)
-*   **Data Analysis & Visualization:** Power BI, Pandas, NumPy, Matplotlib, Seaborn (Learning)
-*   **Business Acumen:** Business Administration, Technology Management, Data-driven Decision Making
-*   **Soft Skills:** Analytical Thinking, Problem Solving, Eagerness to Learn, Collaboration
+*   **Ngôn ngữ & Cơ sở dữ liệu:** Python, SQL (BigQuery, PostgreSQL)
+*   **Phân tích & Trực quan hóa Dữ liệu:** Power BI, Pandas, NumPy, Matplotlib
+*   **Kiến thức Kinh doanh:** Quản trị Kinh doanh, quản trị Công nghệ, nhìn ra insights dựa trên dữ liệu
+*   **Kỹ năng mềm:** Tư duy Phân tích, ham học hỏi, hợp tác làm việc nhóm
 
 ---
 
-### 🚀 My Projects
+### 🚀 Các Dự Án Của Mình
 
-*Make sure to pin your most important repositories to your GitHub profile for better visibility!*
+*Đừng quên ghim (Pin) các repository quan trọng nhất lên đầu trang GitHub cá nhân của bạn để dễ nhìn hơn nhé!*
 
-#### 📊 Ecommerce Analytics with SQL on BigQuery
-*   **Description:** Analyzed e-commerce transaction data to identify sales trends, customer behavior, and product performance using SQL queries on Google BigQuery. This project involved querying large datasets to extract actionable insights for business decision-making.
-*   **Tech Stack:** `SQL`, `Google BigQuery`
-*   **🔗 [GitHub Repo](https://github.com/Dung040125/Ecommerce-Analytics-with-SQL-on-BigQuery)**
-*   **🔗 [Live Demo/Dashboard (If applicable)]()** <!-- Add link if you have one -->
+#### 📊 Phân tích Thương mại Điện tử với SQL trên BigQuery
+*   **Mô tả:** Phân tích dữ liệu giao dịch thương mại điện tử để xác định xu hướng bán hàng, hành vi khách hàng và hiệu suất sản phẩm bằng các truy vấn SQL trên Google BigQuery. Dự án này bao gồm việc truy vấn các tập dữ liệu lớn để trích xuất thông tin chi tiết hữu ích cho việc ra quyết định kinh doanh.
+*   **Công nghệ sử dụng:** `SQL`, `Google BigQuery`
+*   **🔗 [Kho lưu trữ GitHub](https://github.com/Dung040125/Ecommerce-Analytics-with-SQL-on-BigQuery)**
 
-#### 📈 Power BI Project B - [Customer Segmentation Analysis (Tentative Name)]
-*   **Description:** (Coming Soon!) This project will focus on visualizing customer segmentation based on purchasing behavior and demographics using Power BI.
-*   **Tech Stack:** `Power BI`
-*   **🔗 [GitHub Repo (Coming Soon)]()**
+#### 📈 Dự án Power BI B - [Phân tích Phân khúc Khách hàng (Tên dự kiến)]
+*   **Mô tả:** (Sắp có!) Dự án này sẽ tập trung vào việc trực quan hóa phân khúc khách hàng dựa trên hành vi mua hàng và nhân khẩu học bằng Power BI.
+*   **Công nghệ sử dụng:** `Power BI`
+*   **🔗 [Kho lưu trữ GitHub (Sắp có)]()**
 
-#### 📈 Power BI Project C - [Sales Performance Dashboard (Tentative Name)]
-*   **Description:** (Coming Soon!) Developing an interactive dashboard in Power BI to track key sales metrics and performance indicators.
-*   **Tech Stack:** `Power BI`
-*   **🔗 [GitHub Repo (Coming Soon)]()**
+#### 📈 Dự án Power BI C - [Dashboard Hiệu suất Bán hàng (Tên dự kiến)]
+*   **Mô tả:** (Sắp có!) Phát triển một dashboard tương tác trong Power BI để theo dõi các chỉ số bán hàng quan trọng và chỉ số hiệu suất.
+*   **Công nghệ sử dụng:** `Power BI`
+*   **🔗 [Kho lưu trữ GitHub (Sắp có)]()**
 
-#### 📈 Power BI Project D - [Inventory Optimization Insights (Tentative Name)]
-*   **Description:** (Coming Soon!) Utilizing Power BI to analyze inventory data and provide insights for optimizing stock levels and reducing costs.
-*   **Tech Stack:** `Power BI`
-*   **🔗 [GitHub Repo (Coming Soon)]()**
 
-#### 🐍 Python Data Analysis Project E - [Exploratory Data Analysis with Python (Tentative Name)]
-*   **Description:** (Coming Soon!) An upcoming project involving data cleaning, wrangling, exploratory data analysis (EDA), and visualization using Python libraries like Pandas, NumPy, and Matplotlib/Seaborn.
-*   **Tech Stack:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-*   **🔗 [GitHub Repo (Coming Soon)]()**
+#### 🐍 Dự án Phân tích Dữ liệu bằng Python D - [Phân tích Khám phá Dữ liệu với Python (Tên dự kiến)]
+*   **Mô tả:** (Sắp có!) Một dự án sắp tới bao gồm làm sạch dữ liệu, xử lý, phân tích dữ liệu khám phá (EDA) và trực quan hóa bằng các thư viện Python như Pandas, NumPy và Matplotlib/Seaborn.
+*   **Công nghệ sử dụng:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+*   **🔗 [Kho lưu trữ GitHub (Sắp có)]()**
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Thống Kê GitHub Của Mình
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dung040125&show_icons=true&theme=pastel_on_dark&count_private=true&hide_border=true&rank_icon=github" alt="Dung's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dung040125&show_icons=true&theme=buefy&count_private=true&hide_border=true&rank_icon=github" alt="Thống kê GitHub của Dung" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dung040125&layout=compact&theme=pastel_on_dark&hide_border=true" alt="Top Languages" />
-  <!-- For theme, try 'nord', 'pastel_on_dark', 'buefy', 'solarized-light', 'radical' or create your own! -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dung040125&layout=compact&theme=buefy&hide_border=true" alt="Các ngôn ngữ hàng đầu" />
+  <!-- Theme gợi ý cho bản tiếng Việt: 'buefy', 'solarized-light', 'default', 'nord'. Bạn có thể thử các theme khác từ https://github.com/anuraghazra/github-readme-stats#themes -->
 </p>
 
 ---
 
-### 📫 How to Reach Me:
+### 📫 Cách Liên Hệ Với Mình:
 
 <p align="center">
   <a href="mailto:dungnguyenthi040125@gmail.com">
@@ -99,5 +86,5 @@ I'm **Nguyễn Thị Thùy Dung**, a third-year student at **HSB - VNU (Hanoi Sc
 
 ---
 <!--
-**Dung040125/Dung040125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dung040125/Dung040125** là một kho lưu trữ ✨ _đặc biệt_ ✨ vì file `README.md` (file này) sẽ xuất hiện trên trang hồ sơ GitHub của bạn.
 -->
