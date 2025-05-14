@@ -70,6 +70,4 @@ Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Qu
 </p>
 
 ---
-<!--
-**Dung040125/Dung040125** là một kho lưu trữ ✨ _đặc biệt_ ✨ vì file `README.md` (file này) sẽ xuất hiện trên trang hồ sơ GitHub của bạn.
--->
+
