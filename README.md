@@ -41,15 +41,15 @@
 *   **Tech Stack:** `SQL`, `Google BigQuery`
 *   **🔗 [GitHub Repository](https://github.com/Dung040125/Ecommerce-Analytics-with-SQL-on-BigQuery)**
 
-#### 📈 Power BI Project B - [Customer Segmentation Analysis (Tentative Title)]
-*   **Description:** (Coming Soon!) This project will focus on visualizing customer segments based on purchasing behavior and demographics using Power BI.
-*   **Tech Stack:** `Power BI`
-*   **🔗 [GitHub Repository (Coming Soon)]()**
+#### 📈 Superstore Sales Performance Dashboard
+*   **Description:** Developed an interactive Power BI dashboard analyzing Superstore's global sales data. This dashboard provides actionable insights for strategic decision-making on market expansion, product performance, revenue trends, and operational risks associated with returns.
+*   **Tech Stack:** `Power BI`, `DAX`, `Excel (for Design Thinking)`
+*   **🔗 [GitHub Repository](https://github.com/Dung040125/Superstore-Sales)**
 
-#### 📈 Power BI Project C - [Sales Performance Dashboard (Tentative Title)]
-*   **Description:** (Coming Soon!) Developing an interactive dashboard in Power BI to track key sales metrics and performance indicators.
-*   **Tech Stack:** `Power BI`
-*   **🔗 [GitHub Repository (Coming Soon)]()**
+#### 📈 AdventureWorks Procurement Operations Dashboard
+*   **Description:** Created an Operations Dashboard in Power BI for AdventureWorks Cycles, focusing on procurement data. The dashboard offers leadership a visual overview of purchasing activities, supporting optimization of costs, order efficiency, delivery details, and vendor management.
+*   **Tech Stack:** `Power BI`, `DAX`, `Excel (for Design Thinking)`
+*   **🔗 [GitHub Repository](https://github.com/Dung040125/AdventureWorks---Procurement-Operations-Dashboard-Power-BI)**
 
 #### 🐍 Python Data Analysis Project D - [Exploratory Data Analysis with Python (Tentative Title)]
 *   **Description:** (Coming Soon!) An upcoming project involving data cleaning, processing, exploratory data analysis (EDA), and visualization using Python libraries like Pandas, NumPy, and Matplotlib/Seaborn.
