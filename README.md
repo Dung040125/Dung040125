@@ -1,22 +1,22 @@
-# Chào bạn, mình là Thùy Dung! 👋
+# Hi there, I'm Thuy Dung! 👋
 
-*   Mình là sinh viên năm ba tại **Trường Quản trị và Kinh doanh - Đại học Quốc gia Hà Nội (HSB - VNU)**, chuyên ngành **Quản trị Doanh nghiệp và Công nghệ**. 
-*   Mình có niềm đam mê với việc ứng dụng dữ liệu để khám phá những hiểu biết sâu sắc (insights) và hỗ trợ việc ra quyết định một cách hiệu quả. Mình đang trên hành trình thú vị để trở thành một **Nhà phân tích Dữ liệu (Data Analyst)**!
-
----
-
-### 💡 Về Mình
-
-*   🔭 Hiện tại mình đang tập trung vào **xây dựng nền tảng vững chắc về phân tích dữ liệu** thông qua các dự án thực tế và đào sâu kiến thức lý thuyết tại trường cũng như một khóa học chuyên sâu về Phân tích Dữ liệu.
-*   🌱 Mình đang học **các kỹ thuật SQL, Python cho Phân tích Dữ liệu (Pandas, NumPy, Matplotlib), và hoàn thiện kỹ năng sử dụng Power BI để trực quan hóa dữ liệu một cách ấn tượng.**
-*   👯 Mình tìm kiếm cơ hội hợp tác trong **các dự án phân tích dữ liệu ở mức độ sơ cấp, các nghiên cứu tình huống (case studies), hoặc các sáng kiến mã nguồn mở** nơi mình có thể đóng góp, học hỏi từ người khác và áp dụng bộ kỹ năng đang phát triển của mình.
-*   🤔 Mình đang tích cực tìm kiếm **cơ hội thực tập hoặc các dự án thực tế** để tích lũy kinh nghiệm và nhận được sự hướng dẫn trong lĩnh vực phân tích dữ liệu.
-*   💬 Hãy hỏi mình về **SQL để truy vấn dữ liệu, cách tạo dashboard tương tác trong Power BI hoặc hành trình học tập về dữ liệu của mình!**
-*   ⚡ Sự thật thú vị: **Mình thích khám phá các quy luật, dù là trong các tập dữ liệu hay trong cuộc sống hàng ngày! Khi không tìm hiểu về dữ liệu, bạn thường có thể thấy mình đang nghe podcast hoặc đọc sách về tâm lý học hành vi.**
+*   I'm a third-year student at **HSB - VNU School of Business and Management, Vietnam National University, Hanoi**, majoring in **Business Administration and Technology**.
+*   I have a passion for leveraging data to uncover insights and support effective decision-making. I'm on an exciting journey to become a **Data Analyst**!
 
 ---
 
-### 🛠️ Bộ Công Cụ & Kỹ Năng Của Mình
+### 💡 About Me
+
+*   🔭 I'm currently focused on **building a strong foundation in data analysis** through hands-on projects, deepening my theoretical knowledge at university, and an intensive Data Analysis course.
+*   🌱 I'm learning **SQL techniques, Python for Data Analysis (Pandas, NumPy, Matplotlib), and refining my skills in Power BI for impactful data visualization.**
+*   👯 I'm looking to collaborate on **entry-level data analysis projects, case studies, or open-source initiatives** where I can contribute, learn from others, and apply my growing skillset.
+*   🤔 I'm actively seeking **internship opportunities or real-world projects** to gain experience and mentorship in the data analysis field.
+*   💬 Ask me about **SQL for data querying, creating interactive dashboards in Power BI, or my data learning journey!**
+*   ⚡ Fun fact: **I love uncovering patterns, whether in datasets or everyday life! When I'm not delving into data, you can often find me listening to podcasts or reading books on behavioral psychology.**
+
+---
+
+### 🛠️ My Toolkit & Skills
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
@@ -27,39 +27,38 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
 </p>
 
-*   **Ngôn ngữ & Cơ sở dữ liệu:** Python, SQL (PostgreSQL, BigQuery)
-*   **Phân tích & Trực quan hóa Dữ liệu:** Power BI, Pandas, NumPy, Matplotlib
-*   **Kiến thức Kinh doanh:** Kiến thức về Quản trị Kinh doanh & Công nghệ, Khai phá insight từ dữ liệu 
-*   **Kỹ năng mềm:** Tư duy Phân tích, Ham học hỏi, Kỹ năng làm việc nhóm
+*   **Languages & Databases:** Python, SQL (PostgreSQL, BigQuery)
+*   **Data Analysis & Visualization:** Power BI, Pandas, NumPy, Matplotlib
+*   **Business Acumen:** Knowledge of Business Administration & Technology, Data-driven Insight Generation
+*   **Soft Skills:** Analytical Thinking, Eagerness to Learn, Teamwork Skills
 
 ---
 
-### 🚀 Các Dự Án Của Mình
+### 🚀 My Projects
 
-#### 📊 Phân tích Thương mại Điện tử với SQL trên BigQuery
-*   **Mô tả:** Phân tích dữ liệu giao dịch thương mại điện tử để xác định xu hướng bán hàng, hành vi khách hàng và hiệu suất sản phẩm bằng các truy vấn SQL trên Google BigQuery. Dự án này bao gồm việc truy vấn các tập dữ liệu lớn để trích xuất thông tin chi tiết hữu ích cho việc ra quyết định kinh doanh.
-*   **Công nghệ sử dụng:** `SQL`, `Google BigQuery`
-*   **🔗 [Kho lưu trữ GitHub](https://github.com/Dung040125/Ecommerce-Analytics-with-SQL-on-BigQuery)**
+#### 📊 Ecommerce Analytics with SQL on BigQuery
+*   **Description:** Analyzed e-commerce transaction data to identify sales trends, customer behavior, and product performance using SQL queries on Google BigQuery. This project involved querying large datasets to extract actionable insights for business decision-making.
+*   **Tech Stack:** `SQL`, `Google BigQuery`
+*   **🔗 [GitHub Repository](https://github.com/Dung040125/Ecommerce-Analytics-with-SQL-on-BigQuery)**
 
-#### 📈 Dự án Power BI B - [Phân tích Phân khúc Khách hàng (Tên dự kiến)]
-*   **Mô tả:** (Sắp có!) Dự án này sẽ tập trung vào việc trực quan hóa phân khúc khách hàng dựa trên hành vi mua hàng và nhân khẩu học bằng Power BI.
-*   **Công nghệ sử dụng:** `Power BI`
-*   **🔗 [Kho lưu trữ GitHub (Sắp có)]()**
+#### 📈 Power BI Project B - [Customer Segmentation Analysis (Tentative Title)]
+*   **Description:** (Coming Soon!) This project will focus on visualizing customer segments based on purchasing behavior and demographics using Power BI.
+*   **Tech Stack:** `Power BI`
+*   **🔗 [GitHub Repository (Coming Soon)]()**
 
-#### 📈 Dự án Power BI C - [Dashboard Hiệu suất Bán hàng (Tên dự kiến)]
-*   **Mô tả:** (Sắp có!) Phát triển một dashboard tương tác trong Power BI để theo dõi các chỉ số bán hàng quan trọng và chỉ số hiệu suất.
-*   **Công nghệ sử dụng:** `Power BI`
-*   **🔗 [Kho lưu trữ GitHub (Sắp có)]()**
+#### 📈 Power BI Project C - [Sales Performance Dashboard (Tentative Title)]
+*   **Description:** (Coming Soon!) Developing an interactive dashboard in Power BI to track key sales metrics and performance indicators.
+*   **Tech Stack:** `Power BI`
+*   **🔗 [GitHub Repository (Coming Soon)]()**
 
-
-#### 🐍 Dự án Phân tích Dữ liệu bằng Python D - [Phân tích Khám phá Dữ liệu với Python (Tên dự kiến)]
-*   **Mô tả:** (Sắp có!) Một dự án sắp tới bao gồm làm sạch dữ liệu, xử lý, phân tích dữ liệu khám phá (EDA) và trực quan hóa bằng các thư viện Python như Pandas, NumPy và Matplotlib/Seaborn.
-*   **Công nghệ sử dụng:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
-*   **🔗 [Kho lưu trữ GitHub (Sắp có)]()**
+#### 🐍 Python Data Analysis Project D - [Exploratory Data Analysis with Python (Tentative Title)]
+*   **Description:** (Coming Soon!) An upcoming project involving data cleaning, processing, exploratory data analysis (EDA), and visualization using Python libraries like Pandas, NumPy, and Matplotlib/Seaborn.
+*   **Tech Stack:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
+*   **🔗 [GitHub Repository (Coming Soon)]()**
 
 ---
 
-### 📫 Cách Liên Hệ Với Mình:
+### 📫 How to Reach Me:
 
 <p align="center">
   <a href="mailto:dungnguyenthi040125@gmail.com">
@@ -71,4 +70,3 @@
 </p>
 
 ---
-
