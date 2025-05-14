@@ -35,8 +35,6 @@ Mình là **Nguyễn Thị Thùy Dung**, sinh viên năm ba tại **Trường Qu
 
 ### 🚀 Các Dự Án Của Mình
 
-*Đừng quên ghim (Pin) các repository quan trọng nhất lên đầu trang GitHub cá nhân của bạn để dễ nhìn hơn nhé!*
-
 #### 📊 Phân tích Thương mại Điện tử với SQL trên BigQuery
 *   **Mô tả:** Phân tích dữ liệu giao dịch thương mại điện tử để xác định xu hướng bán hàng, hành vi khách hàng và hiệu suất sản phẩm bằng các truy vấn SQL trên Google BigQuery. Dự án này bao gồm việc truy vấn các tập dữ liệu lớn để trích xuất thông tin chi tiết hữu ích cho việc ra quyết định kinh doanh.
 *   **Công nghệ sử dụng:** `SQL`, `Google BigQuery`
