@@ -5,7 +5,7 @@ Aspiring **Data Analyst** & 3rd-year **Business Administration and Technology** 
 
 *   🚀 **Learning & Building:** SQL, Python (Pandas, NumPy, Matplotlib), Power BI.
 *   💡 **Seeking:** Internships & data project collaborations.
-*   ⚡ **Fun Fact:** Pattern seeker (data & life!), psychology podcast, book enthusiast.
+*   ⚡ **Fun Fact:** Pattern seeker (data & life), psychology podcast, book enthusiast.
 
 ---
 ### 🚀 Featured Projects
