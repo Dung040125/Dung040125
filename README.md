@@ -11,7 +11,7 @@ Aspiring **Data Analyst** & 3rd-year **Business Administration and Technology** 
 ### 🚀 Featured Projects
 
 *   **[E-commerce Website Insights (SQL – BigQuery)](https://github.com/Dung040125/E-commerce-Website-Insights-SQL-BigQuery-):** Analyzed e-commerce data for sales trends, customer behavior & product performance.
-*   **[Global Retail Sales Dashboard (Power BI – Superstore)](https://github.com/Dung040125/Global-Retail-Sales-Dashboard-Power-BI-Superstore-):** Interactive dashboard for insights on market expansion, product performance & revenue trends.
+*   **[Global Retail Sales Dashboard (Power BI – Superstore)](https://github.com/Dung040125/Global-Retail-Analysis-Power-BI-Superstore-):** Interactive dashboard for insights on market expansion, product performance & revenue trends.
 *   **[Procurement Operations Analysis (Power BI – AdventureWorks)](https://github.com/Dung040125/Procurement-Operations-Analysis-Power-BI-AdventureWorks-):** Operations dashboard supporting cost optimization, order efficiency & vendor management.
 *   **[Airline Operations Strategy (SQL + Python – SEAAirbus)](https://github.com/Dung040125/Airline-Operations-Strategy-SQL-Python-SEAAirbus-):** SQL database design & Python (Streamlit) dashboards for SEAAirbus, driving operational planning & strategic insights for a new Southeast Asian airline.
 ---
